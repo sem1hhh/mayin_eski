@@ -19,9 +19,9 @@ Bu proje, klasik **Mayın Tarlası (Minesweeper)** oyununu C# ve Windows Forms k
 ## 📸 Ekran Görüntüleri
 
 <p float="left">
-  <img src="images/easy.jpeg" width="250"/>
-  <img src="images/medium.jpeg" width="250"/>
-  <img src="images/hard.jpeg" width="250"/>
+  <img src="easy.jpeg" width="250"/>
+  <img src="medium.jpeg" width="250"/>
+  <img src="hard.jpeg" width="250"/>
 </p>
 
 ---
